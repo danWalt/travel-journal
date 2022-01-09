@@ -11,7 +11,7 @@ export default [
     startDate: "8 March 2016",
     endDate: "6 June 2016",
     description:
-      "The Danakil Depression is the hottest place on Earth in terms of year-round average temperatures. It is also one of the lowest places on the planet at 100 metres (330 ft) below sea level,[6] and without rain for most of the year.",
+      "The Danakil Depression is the hottest place on Earth in terms of year-round average temperatures. It is also one of the lowest places on the planet at 100 metres (330 ft) below sea level, and without rain for most of the year.",
     imageUrl: Danakil,
   },
   {
